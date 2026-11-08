@@ -4,12 +4,12 @@
  i turn ideas and skills into interactive and user-friendly experiences. I really would love to contribute and paticipate to
  projects that can transform the future of web development however the case may be by pushing the bondaries of what possible on the web.
 
- ##SKILLS:
+ SKILLS:
  
- -** Languages:
+ - Languages:
  
  -HTML, CSS AND JAVASCRIPT.
- -**Tools:
+ -Tools:
  Git.
  -Projects:
  
